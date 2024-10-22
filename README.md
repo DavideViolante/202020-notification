@@ -5,7 +5,7 @@ Script built with the help of ChatGPT.
 
 ## How to setup
 1. `pip3 install plyer`
-2. Download the content of this repo
+2. Download the content of this repo in the `$HOME` dir, or edit line 5 of `202020.sh`
 3. `cd 202020-notification` then `chmod +x 202020.sh 202020.py`
 4. `crontab -e`
 5. Insert this line to enable the notification every 20 minutes:
